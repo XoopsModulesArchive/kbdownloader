@@ -1,0 +1,33 @@
+<?php
+
+define('_AM_KBDOWNLOADER_CONFIGURE', 'Configurar Downloader');
+define('_AM_KBDOWNLOADER_UPLOAD', 'Enviar Arquivo');
+define('_AM_KBDOWNLOADER_REMOVE', 'Remover Arquivos');
+define('_AM_KBDOWNLOADER_CHANGES', 'Salvar Alterações');
+define('_AM_KBDOWNLOADER_CONFIGUREFOLDERS', 'Configurar Pastas');
+define('_AM_KBDOWNLOADER_CONFIGUREBLOCK', 'Configurar Bloco');
+define('_AM_KBDOWNLOADER_COMMENTS', ' Comentários');
+define('_AM_KBDOWNLOADER_UPDATED', ' Está sendo atualizado');
+define('_AM_KBDOWNLOADER_DELETED', ' Está sendo apagado');
+define('_AM_KBDOWNLOADER_DESCRIPTION', 'Descrição: ');
+define('_AM_KBDOWNLOADER_VISITS', 'Visitas: ');
+define('_AM_KBDOWNLOADER_DATE', 'Data: ');
+define('_AM_KBDOWNLOADER_SUBMITTEDBY', 'Enviado por: ');
+define('_AM_KBDOWNLOADER_VOTES', 'Votos: ');
+define('_AM_KBDOWNLOADER_RANK', 'Ranking: ');
+define('_AM_KBDOWNLOADER_HEADERSTART', 'Código do início do cabeçalho(header)');
+define('_AM_KBDOWNLOADER_HEADEREND', 'Código do final do cabeçalho(header)');
+define('_AM_KBDOWNLOADER_FOOTSTART', 'Código do início da borda(foot)');
+define('_AM_KBDOWNLOADER_FOOTEND', 'Código do final da borda(foot)');
+define('_AM_KBDOWNLOADER_PREVIOUS', 'Anterior');
+define('_AM_KBDOWNLOADER_NEXT', 'Próximo');
+define('_AM_KBDOWNLOADER_BLOCKWIDTH', 'Largura do bloco');
+define('_AM_KBDOWNLOADER_BLOCKHETGHT', 'Altura do bloco');
+define('_AM_KBDOWNLOADER_PERMISIONSFILES', 'Permitir envio de arquivos para o servidor ?. 1 - Sim, 0 - Não');
+define('_AM_KBDOWNLOADER_PERMISIONSCOMMENT', 'Permitir envio de comentário para o servidor ?. 1 - Sim, 0 - Não');
+define('_AM_KBDOWNLOADER_PERMISIONSVOTES', 'Permitir envio de votos para o servidor ?. 1 - Sim, 0 - Não');
+define('_AM_KBDOWNLOADER_DELETE', 'Apagar');
+define('_AM_KBDOWNLOADER_UPDATE', 'Atualizar');
+define('_AM_KBDOWNLOADER_SUBMIT', 'Enviar');
+define('_AM_KBDOWNLOADER_HEADERBACKGROUNDCOLOR', 'Cor de fundo no cabeçalho de comentário');
+define('_AM_KBDOWNLOADER_COMMENTBACKGROUNDCOLOR', 'Cor de fundo do comentário');
